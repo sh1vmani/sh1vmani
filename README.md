@@ -17,7 +17,7 @@ I enjoy exploring **cybersecurity challenges** and solving **CTFs (Capture The F
 
 ## 📫 Connect with Me
 - **GitHub**: [Shivamani](https://github.com/sh1vmani)
-- **LinkedIn**: [Shivamani](https://linkedin.com/in/shivmani)
+- **LinkedIn**: [Shivamani](https://linkedin.com/in/sh1vmani)
 
 ---
 I am currently learning more about:
