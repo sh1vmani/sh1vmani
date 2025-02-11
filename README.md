@@ -1,5 +1,25 @@
 ## Hi there 👋
-## 🚀 My GitHub Profile README
+# 👋 Hello, I'm Shivamani!
+
+## 🚀 About Me
+- 🎓 Master's student in **Cybersecurity Engineering**
+- 🔍 Passionate about **Pen Testing & Ethical Hacking**
+- 💻 Experienced with **Windows & Linux OS**
+- 🕵️‍♂️ Digital Forensics Enthusiast
+
+## 💡 What I'm Currently Learning
+- Advanced **Penetration Testing** techniques
+- **Secure coding** best practices
+- Contributing to **open-source security projects**
+
+## ⚡ Fun Fact
+I enjoy exploring **cybersecurity challenges** and solving **CTFs (Capture The Flag)**!
+
+## 📫 Connect with Me
+- **GitHub**: [Shivamani](https://github.com/sh1vmani)
+- **LinkedIn**: [Shivamani](https://linkedin.com/in/shivmani)
+
+---
 I am currently learning more about:
 - Git and GitHub workflows.
 - Open-source contributions.
