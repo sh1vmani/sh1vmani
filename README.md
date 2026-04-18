@@ -31,6 +31,7 @@ Two years of hands-on experience across security operations and application secu
 - eJPT (INE Security)
 - AWS Certified Cloud Practitioner
 - OSCP (pursuing)
+- CDSA (pursuing)
 
 ---
 
