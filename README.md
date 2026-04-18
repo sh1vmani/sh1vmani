@@ -1,17 +1,18 @@
 # Shivamani Vastrala
 
-**Security Consultant — Vulnerability Management & Offensive Security**
+**Security Consultant | Penetration Testing and Vulnerability Management**
 
-Security consultant focused on vulnerability management, offensive security, and exposure remediation. I work across the full lifecycle from identifying and validating vulnerabilities to designing technical controls that reduce attack surface. My background spans web and API security, cloud environments, and detection engineering.
+I work across both offensive and defensive security. On the offensive side, that means web and API testing, manual exploitation, and validating controls under realistic attack conditions. On the defensive side, it means vulnerability management, exposure analysis, and building technical remediations that hold up in production. Both sides inform each other: knowing how attacks work makes remediation recommendations more precise.
 
 ---
 
 ## What I Work On
 
-- **Vulnerability Management** — asset exposure analysis, risk prioritization, remediation tracking
-- **Web & API Pentesting** — OWASP Top 10, authentication testing, authorization bypass, injection flaws
-- **Cloud Security (AWS)** — IAM misconfiguration, S3 exposure, service privilege escalation
-- **Detection Engineering** — log analysis, alert tuning, mapping findings to MITRE ATT&CK
+- **Web and API Penetration Testing**: OWASP Top 10, authentication bypass, authorization flaws, injection vulnerabilities
+- **Vulnerability Management**: asset exposure analysis, risk prioritization, remediation tracking and validation
+- **Defensive Controls**: secure code review, path validation, configuration hardening, least-privilege design
+- **Cloud Security (AWS)**: IAM misconfiguration, S3 exposure, service privilege analysis
+- **Detection Engineering**: log analysis, alert tuning, MITRE ATT&CK mapping
 
 ---
 
@@ -19,7 +20,7 @@ Security consultant focused on vulnerability management, offensive security, and
 
 | Project | Description |
 |---|---|
-| [secure-file-locker](https://github.com/sh1vmani/secure-file-locker) | Defense-in-depth path traversal remediation lab — OS, app, and network controls (OWASP WSTG-AUTHZ-01, CWE-22) |
+| [secure-file-locker](https://github.com/sh1vmani/secure-file-locker) | Defense-in-depth path traversal remediation lab covering OS, application, and network controls (OWASP WSTG-AUTHZ-01, CWE-22) |
 
 ---
 
@@ -36,7 +37,7 @@ Security consultant focused on vulnerability management, offensive security, and
 
 - OSCP lab work and exam preparation
 - Active Directory attack paths (Kerberoasting, lateral movement, privilege escalation)
-- Cloud security — AWS threat modeling and control validation
+- Cloud security: AWS threat modeling and control validation
 
 ---
 
