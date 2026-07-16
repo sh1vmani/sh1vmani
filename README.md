@@ -88,7 +88,6 @@ AWS (IAM, S3, CloudFormation) Kali Linux
 
 - CompTIA Security+
 - eJPT (INE Security)
-- AWS Certified Cloud Practitioner
 - AWS Certified Security - Specialty
 - OSCP (pursuing)
 - CDSA (pursuing)
