@@ -57,9 +57,20 @@ designed, built, and shipped end-to-end as a solo open-source project (Apache-2.
 
 ## Security Research
 
-Coordinated vulnerability disclosure: 3 CVEs assigned for unauthenticated authorization flaws
-in WordPress plugins, currently in active embargo pending vendor publication. Details available
-on request.
+9 CVEs published through coordinated disclosure with WPScan for unauthenticated
+authorization, injection, and account-takeover flaws in WordPress plugins. Findings with a
+public proof-of-concept are linked below; the rest are added here as each WPScan embargo lifts.
+
+| CVE | Plugin | Severity | Class |
+|-----|--------|----------|-------|
+| [CVE-2026-11869](https://wpscan.com/vulnerability/49170650-0006-4f3b-90f4-f8bb176beb7b) | WP DSGVO Tools (GDPR) < 3.1.40 | 7.5 High | Unauthenticated GDPR personal-data disclosure |
+| [CVE-2026-12510](https://wpscan.com/vulnerability/b7825c8a-1817-4a17-b641-076e48ac7c2e) | AI Engine < 3.5.5 | 5.9 Medium | Subscriber+ IDOR, chatbot discussion takeover |
+| [CVE-2026-12082](https://wpscan.com/vulnerability/d23cb7bd-b40c-4f87-a134-7c3b62043f18) | Praison AI SEO < 5.0.7 | 5.3 Medium | Unauthenticated broken access control (entire REST API) |
+| [CVE-2026-12723](https://wpscan.com/vulnerability/76df2c61-4ba7-4987-9e61-5d02142b3db5) | Kirki < 6.0.12 | 5.3 Medium | Unauthenticated comment tampering / moderation bypass |
+| [CVE-2026-11868](https://wpscan.com/vulnerability/a82da13b-ee86-495b-a684-324c1541d7ab) | WP Travel < 11.7.1 | 5.3 Medium | Unauthenticated arbitrary booking cancellation |
+
+Additional disclosed CVEs, including two payment-bypass and one account-takeover (CVSS up to
+8.1), publish through early August.
 
 ---
 
