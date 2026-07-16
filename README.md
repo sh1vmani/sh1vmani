@@ -1,14 +1,16 @@
 # Shivamani Vastrala
 
-**Security Engineer - Application & AI Security, Detection Engineering, SOC Operations**
+**Security Engineer - Application & AI Security · Detection Engineering · Security Operations · Vulnerability Research**
 
-Security Engineer with 3+ years across application security, detection engineering, and
-security operations in enterprise, cloud, and AI-driven environments. At Cybertrust America
-I assess RAG-based AI platforms and LLM inference pipelines: prompt injection, denial-of-wallet,
-broken access control, and CI/CD security gates. Earlier at TCS I triaged 1,000+ daily alerts
-in Splunk and Microsoft Sentinel, engineered 12+ MITRE ATT&CK-mapped detections, and cut false
-positives 35% with Python threat-intel enrichment. M.Eng. in Cybersecurity Engineering,
-University of Maryland.
+Security Engineer with 3+ years across application and AI security, detection engineering,
+and security operations in enterprise, cloud, and AI-driven environments. At Cybertrust
+America I assess RAG-based AI platforms and LLM inference pipelines: prompt injection,
+denial-of-wallet, broken access control, and CI/CD security gates. Earlier at TCS I spanned
+application and operations security: web application penetration testing (SQL injection,
+XSS, IDOR) and secure code review, alongside SIEM detection engineering and triage of 1,000+
+daily alerts, cutting false positives 35% with Python threat-intel enrichment. Independently
+I run coordinated vulnerability disclosure with 9 published CVEs in widely used WordPress
+plugins. M.Eng. in Cybersecurity Engineering, University of Maryland.
 
 ---
 
